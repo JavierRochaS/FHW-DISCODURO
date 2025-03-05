@@ -7,7 +7,7 @@
 4. [Ejemplos comerciales](ejemplo.md)
 5. [Conclusiones](conclusion.md)
 ---
-![sx](img/sx.jpg)
+![sx](img/disco.webp)
 
 ---
 
