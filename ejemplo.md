@@ -7,3 +7,17 @@
 | Samsung 870 EVO       | SSD  | 1 TB      | Hasta 560 MB/s  | SATA     |
 | Kingston NV2         | SSD  | 2 TB      | Hasta 3500 MB/s | NVMe     |
 
+
+
+![sx](img/seagate.jpg)
+
+
+![sx](img/samsung.jpg)
+
+
+
+![sx](img/western.jpg)
+
+
+
+![sx](img/nv2.jpg)
